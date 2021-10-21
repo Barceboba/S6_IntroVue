@@ -12,7 +12,14 @@ export default {
   name: 'App',
   components: {
     Home
-  }
+  /* },
+  computed: {
+    frases() {
+        return frases.map((frase) => {
+            return frase
+        })
+    }*/
+} 
 }
 </script>
 

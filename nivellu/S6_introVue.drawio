@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="e91MqwquHhz2js4BfBC9" name="Page-1">
-        <mxGraphModel dx="1885" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1401" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -17,7 +17,7 @@
                     <mxGeometry x="-10" y="270" width="270" height="220" as="geometry"/>
                 </mxCell>
                 <mxCell id="5" value="&lt;font style=&quot;font-size: 16px&quot; color=&quot;#ff29f8&quot;&gt;Home.vue&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#5C5C5C;rounded=1;" parent="1" vertex="1">
-                    <mxGeometry x="90" y="350" width="70" height="40" as="geometry"/>
+                    <mxGeometry x="90" y="280" width="70" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="6" value="" style="whiteSpace=wrap;html=1;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="-10" y="570" width="270" height="320" as="geometry"/>
@@ -29,34 +29,42 @@
                     <mxGeometry x="75" y="580" width="100" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="8" value="&quot;El nostre heroi estava surant per l'espai sideral quan a la llunyania va albirar una nau espacial&quot;" style="text;strokeColor=#BD7000;fillColor=#f0a30a;align=left;verticalAlign=middle;rounded=0;sketch=0;fontColor=#000000;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="-10" y="630" width="520" height="40" as="geometry"/>
+                    <mxGeometry y="320" width="520" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="11" value="&lt;span style=&quot;color: rgb(55 , 71 , 79) ; font-family: &amp;#34;montserrat&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &quot;Sentia curiositat per l'interior de la nau i es va posar a inspeccionar-la. Va arribar a una sala amb dues portes.&quot;&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=#BD7000;fillColor=#f0a30a;align=left;verticalAlign=middle;rounded=0;sketch=0;fontColor=#000000;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="-10" y="680" width="520" height="40" as="geometry"/>
+                    <mxGeometry y="370" width="520" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="&lt;p id=&quot;yui_3_17_2_1_1634650656609_49&quot; style=&quot;box-sizing: border-box ; margin-top: 0px ; margin-bottom: 1rem ; color: rgb(55 , 71 , 79) ; font-family: &amp;#34;montserrat&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &quot;L'heroi va decidir travessar la porta que el portava a casa&quot;,&lt;/font&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=#BD7000;fillColor=#f0a30a;align=left;verticalAlign=middle;rounded=0;sketch=0;fontColor=#000000;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="-10" y="730" width="520" height="50" as="geometry"/>
+                <mxCell id="12" value="  &amp;quot;L&amp;#39;heroi va decidir travessar la porta que el portava a casa&amp;quot;,&lt;br&gt;&lt;br&gt;" style="text;strokeColor=#BD7000;fillColor=#f0a30a;align=left;verticalAlign=top;rounded=0;sketch=0;fontColor=#000000;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="420" width="520" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="&lt;p id=&quot;yui_3_17_2_1_1634650656609_51&quot; style=&quot;box-sizing: border-box ; margin-top: 0px ; margin-bottom: 1rem ; color: rgb(55 , 71 , 79) ; font-family: &amp;#34;montserrat&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&quot;Mentrestant, altres&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;herois&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&amp;nbsp;no van tenir tanta sort en la seva elecció ...&quot;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;strokeColor=#BD7000;fillColor=#f0a30a;align=left;verticalAlign=middle;rounded=0;sketch=0;fontColor=#000000;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="-10" y="800" width="520" height="40" as="geometry"/>
+                <mxCell id="13" value="&amp;quot;Mentrestant, altres herois no van tenir tanta sort en la seva elecció ...&amp;quot;&lt;br&gt;" style="text;strokeColor=#BD7000;fillColor=#f0a30a;align=left;verticalAlign=middle;rounded=0;sketch=0;fontColor=#000000;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="450" width="520" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="" style="whiteSpace=wrap;html=1;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;rounded=1;" vertex="1" parent="1">
+                <mxCell id="14" value="" style="whiteSpace=wrap;html=1;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="-375" y="270" width="270" height="220" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" value="&lt;font style=&quot;font-size: 16px&quot; color=&quot;#ff29f8&quot;&gt;Botons.vue&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#5C5C5C;rounded=1;" vertex="1" parent="1">
+                <mxCell id="15" value="&lt;font style=&quot;font-size: 16px&quot; color=&quot;#ff29f8&quot;&gt;Botons.vue&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#5C5C5C;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="-290" y="287" width="100" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="16" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-375" y="340" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" value="Anterior" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="19" value="Anterior" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="-335" y="360" width="40" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="20" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-230" y="340" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="Següent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="21" value="Següent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="-190" y="360" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;font color=&quot;#ff0080&quot;&gt;EP!!&lt;br&gt;Pasar a traç text de logo.svg&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+                    <mxGeometry x="-305" y="110" width="190" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;" edge="1" target="23" parent="1" source="2">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-30" y="400" as="sourcePoint"/>
+                    </mxGeometry>
                 </mxCell>
             </root>
         </mxGraphModel>

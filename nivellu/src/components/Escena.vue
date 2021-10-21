@@ -1,5 +1,5 @@
 <template>
- <div>
+ <div id=container>
      <!-- - Exercici 1 -->
 <!--      <div>El nostre heroi estava surant per l'espai sideral quan a la llunyania va albirar una nau espacial.</div> -->
 
@@ -11,19 +11,20 @@
 </template>
 
 <script>
-import frases from "@/assets/json/historiaSideral.json";
+/* import frases from "@/assets/json/historiaSideral.json"; */
 export default {
 name:'Escena',
-props: {
+/* props: {
     msg: String
-},
-computed: {
+}, */
+/* computed: {
     frases() {
         return frases.map((frase) => {
             return frase
         })
     }
-}
+} */
+emits: ['frase', 'sentencia']
 }
 </script>
 
@@ -31,14 +32,19 @@ computed: {
 /* Exercici 3 */
 #frase {
     display: inline-block;
-    text-align: center;
     border: 2px solid black;
     border-radius: 50em;
-    padding: 5px;
-    margin-bottom: 5px;
-    height: 30px;
+    padding: 10px;
+    margin-bottom: 15px;
     width: 800px;
-    vertical-align: middle;
+
 }
+/* #container {
+    display: flexbox;
+   align-items: center;
+     align-self: center;
+
+
+} */
 
 </style>
